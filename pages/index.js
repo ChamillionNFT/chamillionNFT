@@ -9,6 +9,10 @@ export default function Home() {
         <title>Chamillions</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <link rel="icon" href="/Logo.png" />
+        <link href="http://fonts.cdnfonts.com/css/daniel" rel="stylesheet"/>
+        <link href="http://fonts.cdnfonts.com/css/candy" rel="stylesheet"/>
+                
+                
       </Head>
       
       <div className="nav flex">
@@ -19,22 +23,29 @@ export default function Home() {
           </a>
           </Link>
         </div>
+        
+       
+         
         <nav className="nav">
           <ul className="menu_list">
-            <li><Link  href="https://discord.gg/5CbQVkBVBw"><a>
+            <div className="icons_link">
+          <li><Link  href="https://discord.gg/5CbQVkBVBw"><a>
               <Image src="/dlogo.png" alt="discord link"
               height={54}
               width={54}></Image>
               </a></Link></li>
-              <li><Link  href="https://twitter.com/ChamillionNFT"><a>
+              <li className="icons_link"><Link  href="https://twitter.com/ChamillionNFT"><a>
               <Image src="/tlogo.png" alt="twitter link"
               height={54}
               width={54}></Image>
               </a></Link></li>
+            
+            </div>
             <li><Link  href="/#about"><a>About</a></Link></li>
             <li><Link  href="/#roadmap"><a>Roadmap</a></Link></li>
             <li><Link  href="/#plans"><a>Plans</a></Link></li>
             <li><Link href="/#team"><a>Team</a></Link></li>
+           
           </ul>
         </nav>
       </div>
