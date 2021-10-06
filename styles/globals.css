@@ -4,8 +4,8 @@ body {
   margin: 0;
   background: url('../public/Chamillion\ Background.png');
   background-position: 0 0;
-    background-size: contain;
-    background-repeat: repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
     background-attachment: fixed;
     letter-spacing: 0.05rem;
     line-height: 2rem;
