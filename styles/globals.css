@@ -60,7 +60,7 @@ overflow: hidden;
 .nav li{
   float: left;
   margin-right: 20px;
-  font-family: 'Candy', sans-serif;
+  font-family: 'candy', sans-serif;
   font-size: 2.5rem;
 
   
@@ -71,7 +71,7 @@ overflow: hidden;
   cursor: pointer;
 }
 .title{
-  font-family: 'Daniel', sans-serif;
+  font-family: 'Daniel', 'cursive',sans-serif;
   text-align: center;
   font-size: 2rem;
   color: #b896f7;
@@ -179,7 +179,7 @@ overflow: hidden;
       margin-bottom: 10px;
     }
   }
-@media screen and (max-width:545px) {
+@media screen and (max-width:600px) {
 .menu_list .icons_link{
   display: flex;
   flex-direction: row;
