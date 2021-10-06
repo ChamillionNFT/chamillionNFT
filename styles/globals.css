@@ -1,9 +1,17 @@
+@import url('http://fonts.cdnfonts.com/css/daniel');
+@import url('http://fonts.cdnfonts.com/css/candy');
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background: url('../public/Chamillion\ Background.png');
+  background-position: 0 0;
+    background-size: contain;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    letter-spacing: 0.05rem;
+    line-height: 2rem;
+  
 }
 
 a {
@@ -14,3 +22,150 @@ a {
 * {
   box-sizing: border-box;
 }
+.main{
+  margin-top: 15px;
+}
+.container{
+  width: 80%;
+  margin-left: 10%;
+  color: rgba(255,255,255,1);
+  font-family: sans-serif;
+  font-size: 1.5rem;
+
+  
+}
+
+
+.flex{
+  display: flex;
+  align-items: center;
+  justify-content:space-evenly;
+  flex-direction: row;
+  border-bottom: rgba(229,231,235,1) solid 2px;
+}
+.logo{
+  margin-right: 20px;
+overflow: hidden;
+}
+.menu_list{
+  list-style: none;
+  
+  
+}
+.nav{
+  margin-left: auto;
+}
+.nav li{
+  float: left;
+  margin-right: 20px;
+  font-family: 'Candy', sans-serif;
+  font-size: 2.5rem;
+
+  
+
+}
+.nav li:hover{
+  color: #b896f7;
+  cursor: pointer;
+}
+.title{
+  font-family: 'Daniel', sans-serif;
+  text-align: center;
+  font-size: 2rem;
+  color: #b896f7;
+
+}
+.launch_date{
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+.launch_date p{
+  margin: 5px;
+}
+
+.flex_about{
+  width:40%;
+}
+.join_discord{
+  font-family: 'candy',sans-serif;
+  font-size: 2.5rem;
+ margin-top: 10px;
+ 
+ 
+  
+}
+.join_discord a{
+  background-color: #b896f7;
+  padding: 0 10px;
+  border-radius: 5px;
+ 
+}
+.join_discord:hover{
+  color: black;
+}
+.launch_date Link{
+  margin-top: 20px;
+}
+.preview_gif{
+  box-shadow: rgb(139, 22, 194) 0px 20px 30px -10px;
+}
+.preview_gif img{
+  border-radius: 10px;
+
+} 
+
+.roadmap li{
+  margin-bottom: 30px;
+}
+  .roadmap_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    
+  }
+ 
+
+  .plans{
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    
+    margin-top: 20px;
+    border-bottom: rgba(229,231,235,1) solid 2px;
+  }
+  .team{
+    text-align: center;
+  }
+  .profile_img{
+    border-radius: 100%;
+  }
+  .profile h3{
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+  .profile a{
+    font-family: 'candy',sans-serif;
+   
+  }
+  .footer{
+    margin-top: 100px;
+    text-align: center;
+   
+  }
+  .footer p{
+    margin-bottom: 0;
+  }
+  @media screen and (max-width:900px) {
+    .flex{
+    flex-direction: column;
+    }
+    .flex_about{
+      width: 100%;
+    }
+    .preview_gif{
+      margin-top: 50px;
+    }
+    .nav li{
+      margin-bottom: 10px;
+    }
+  }
