@@ -21,10 +21,20 @@ export default function Home() {
         </div>
         <nav className="nav">
           <ul className="menu_list">
-            <li><a  href="/#about">About</a></li>
-            <li><a href="/#roadmap">Roadmap</a></li>
-            <li><a href="/#plans">Plans</a></li>
-            <li><a href="/#team">Team</a></li>
+            <li><Link  href="https://discord.gg/5CbQVkBVBw"><a>
+              <Image src="/dlogo.png" alt="discord link"
+              height={54}
+              width={54}></Image>
+              </a></Link></li>
+              <li><Link  href="https://twitter.com/ChamillionNFT"><a>
+              <Image src="/tlogo.png" alt="twitter link"
+              height={54}
+              width={54}></Image>
+              </a></Link></li>
+            <li><Link  href="/#about"><a>About</a></Link></li>
+            <li><Link  href="/#roadmap"><a>Roadmap</a></Link></li>
+            <li><Link  href="/#plans"><a>Plans</a></Link></li>
+            <li><Link href="/#team"><a>Team</a></Link></li>
           </ul>
         </nav>
       </div>
@@ -56,7 +66,7 @@ export default function Home() {
             </p>
             <div className="join_discord" >
             <Link href="https://discord.gg/5CbQVkBVBw">
-            <a target="_blank">JOIN OUR DISCORD</a>
+            <a target="_blank" rel="noreferrer">JOIN OUR DISCORD</a>
           </Link>
           </div>
           </div>
@@ -113,7 +123,7 @@ export default function Home() {
              width={200}/>
            </div>
            <h3 className="title">Dlo</h3>
-           <a href="https://twitter.com/ChamillionNFT" target="_blank">@ChamillionNFT</a>
+         <Link href="https://twitter.com/ChamillionNFT"><a target="_blank" rel="noreferrer">@ChamillionNFT</a></Link>
          </div>
 </div>
 
