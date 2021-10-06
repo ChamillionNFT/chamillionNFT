@@ -185,5 +185,10 @@ overflow: hidden;
   flex-direction: row;
   justify-content: stretch;
 }
+  body{
+    background-size:contain;
+    background-repeat: repeat;
   
+
+  }
 }
