@@ -106,7 +106,7 @@ export default function Home() {
             <div  className="roadmap_img" >
             <Image src="/Roadmap.png"
             alt="Roadmap of chamillion"
-            width={1080}
+            width={1920}
             height={650}/>
             </div>
           </div>
