@@ -69,13 +69,13 @@ export default function Home() {
             <div className="launch_date">
             
               <p>
-            <strong>LAUNCH DATE:</strong> November 1st
+            <strong>LAUNCH DATE:</strong> November 25th
             </p>
               <p>
 <strong>TOTAL SUPPLY:</strong> 5,555 Chamillions
 </p>
               <p>
-<strong>MINT PRICE:</strong> 0.05 ETH each
+<strong>MINT PRICE:</strong> 0.03 ETH each
             </p>
             <div className="join_discord" >
             <Link href="https://discord.gg/5CbQVkBVBw">
