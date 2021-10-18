@@ -100,7 +100,7 @@ export default function Home() {
               <li>25% It’s time to give back to our holders! Four random Chamillion holders will get .25 ETH airdropped to their wallet.</li>
               <li>50% Community challenges (TBD) with Chamillion rewards including 1/1 Chamillion prizes.</li>
               <li>75% We are firm believers in keeping our environment clean which is why 5 ETH will donated to a wildlife shelter voted upon by the holders.</li>
-              <li>85% Chamillion merchandise project will begin. Accessories and designs will be decided by the Chamillions. Process will be shown in announcements.</li>
+              <li>90% Chamillion merchandise project will begin. Accessories and designs will be decided by the Chamillions. Process will be shown in announcements.</li>
               <li>100% Chamillion surprise airdrop to users; We are already working on a future NFT Collection that will drop shortly after the Chamillions collections is 100% minted. </li>
             </ul>
             <div  className="roadmap_img" >
