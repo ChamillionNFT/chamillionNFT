@@ -162,7 +162,7 @@ export default function Home() {
              height={200}
              width={200}/>
            </div>
-           <h3 className="Lead Admin">Community Lead</h3>
+           <h3 className="Lead Admin">Admin Lead</h3>
          <Link href="https://twitter.com/"><a target="_blank" rel="noreferrer">@</a></Link>
          </div>
 </div>
