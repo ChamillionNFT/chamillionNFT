@@ -69,7 +69,7 @@ export default function Home() {
             <div className="launch_date">
             
               <p>
-            <strong>LAUNCH DATE:</strong> November 25th
+            <strong>LAUNCH DATE:</strong> November 15th
             </p>
               <p>
 <strong>TOTAL SUPPLY:</strong> 5,555 Chamillions
