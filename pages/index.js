@@ -124,7 +124,7 @@ export default function Home() {
          <div id="team" className="team">
            <h2 className="title">MEET OUR TEAM:</h2>
            <p>
-           We are a small team of college graduates whose identities are always changing.
+           We are a small team of college and highschool graduates whose identities are always changing.
            </p>
            <p>
            Feel free to reach out to us!
