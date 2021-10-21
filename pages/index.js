@@ -154,7 +154,7 @@ export default function Home() {
              width={200}/>
            </div>
            <h3 className="title">Community Lead</h3>
-         <Link href="https://twitter.com/OpalTweaks"><a target="_blank" rel="noreferrer">@OpalTweaks</a></Link>
+         <Link href="https://twitter.com/OpalTweaks"><a target="_blank" rel="noreferrer">@Sam</a></Link>
          </div>
          <div  className="profile">
            <div>
@@ -163,7 +163,7 @@ export default function Home() {
              width={200}/>
            </div>
            <h3 className="title">Admin Lead</h3>
-         <Link href="https://twitter.com/"><a target="_blank" rel="noreferrer">@Zuko</a></Link>
+         <Link href="https://twitter.com/mrzukko"><a target="_blank" rel="noreferrer">@Aiden</a></Link>
          </div>
 </div>
 
