@@ -138,6 +138,15 @@ export default function Home() {
            <h3 className="title">Dlo</h3>
          <Link href="https://twitter.com/ChamillionNFT"><a target="_blank" rel="noreferrer">@ChamillionNFT</a></Link>
          </div>
+         <div  className="profile">
+           <div>
+             <Image className="profile_img" src="/Profile Pic1.png" alt="profile picture"
+             height={200}
+             width={200}/>
+           </div>
+           <h3 className="title">Dlo</h3>
+         <Link href="https://twitter.com/ChamillionNFT"><a target="_blank" rel="noreferrer">@ChamillionNFT</a></Link>
+         </div>
 </div>
 
         </div>
