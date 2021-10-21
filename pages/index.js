@@ -144,8 +144,8 @@ export default function Home() {
              height={200}
              width={200}/>
            </div>
-           <h3 className="title">Dlo</h3>
-         <Link href="https://twitter.com/ChamillionNFT"><a target="_blank" rel="noreferrer">@ChamillionNFT</a></Link>
+           <h3 className="title">Common</h3>
+         <Link href="https://twitter.com/CommonNFT"><a target="_blank" rel="noreferrer">@CommonNFT</a></Link>
          </div>
 </div>
 
