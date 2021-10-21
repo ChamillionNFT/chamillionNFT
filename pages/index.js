@@ -140,7 +140,7 @@ export default function Home() {
          </div>
          <div  className="profile">
            <div>
-             <Image className="profile_img" src="/Profile Pic1.png" alt="profile picture"
+             <Image className="profile_img" src="/Profile Pic1.jpg" alt="profile picture"
              height={200}
              width={200}/>
            </div>
