@@ -149,12 +149,21 @@ export default function Home() {
          </div>
          <div  className="profile">
            <div>
-             <Image className="profile_img" src="/Profile Pic2.png" alt="profile picture"
+             <Image className="profile_img" src="/Profile Pic2.jpg" alt="profile picture"
              height={200}
              width={200}/>
            </div>
-           <h3 className="title">Common</h3>
-         <Link href="https://twitter.com/CommonNFT"><a target="_blank" rel="noreferrer">@CommonNFT</a></Link>
+           <h3 className="title">Community Lead</h3>
+         <Link href="https://twitter.com/OpalTweaks"><a target="_blank" rel="noreferrer">@OpalTweaks</a></Link>
+         </div>
+         <div  className="profile">
+           <div>
+             <Image className="profile_img" src="/Profile Pic3.jpg" alt="profile picture"
+             height={200}
+             width={200}/>
+           </div>
+           <h3 className="Lead Admin">Community Lead</h3>
+         <Link href="https://twitter.com/"><a target="_blank" rel="noreferrer">@</a></Link>
          </div>
 </div>
 
