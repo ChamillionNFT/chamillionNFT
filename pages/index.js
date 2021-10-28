@@ -136,7 +136,7 @@ export default function Home() {
              width={200}/>
            </div>
            <h3 className="title">Project Lead</h3>
-         <Link href="https://twitter.com/DaltonStearns"><a target="_blank" rel="noreferrer">@DaltonStearns</a></Link>
+         <Link href="https://twitter.com/DaltonStearns"><a target="_blank" rel="noreferrer">@Dalton</a></Link>
          </div>
          <div  className="profile">
            <div>
