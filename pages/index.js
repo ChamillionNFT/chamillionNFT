@@ -83,13 +83,6 @@ export default function Home() {
           </Link>
           
           </div>
-          <div className="nftcal_link">
-        <li className="nftcal_link"><Link  href="https://nftcalendar.io/event/chamillions/"><a>
-        <Image src="/nftcal.png"
-        height={100}
-        width={100}></Image>
-        </a></Link></li>
-        </div>
 
           </div>
             </div>
@@ -102,6 +95,18 @@ export default function Home() {
               height={480}/>
             
             </div>
+
+            <p>
+            As Seen On:
+            </p>
+            <div className="nftcal_link">
+        <li className="nftcal_link"><Link  href="https://nftcalendar.io/event/chamillions/"><a>
+        <Image src="/nftcal.png" alt="NFTCal Link"
+        height={100}
+        width={100}></Image>
+        </a></Link></li>
+        </div>
+
           </div>
           <div id="roadmap" className="roadmap">
             <h2 className="title">ROADMAP</h2>
