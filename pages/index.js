@@ -97,18 +97,6 @@ export default function Home() {
             </div>
           </div>
 
-          <p>
-            As Seen On:
-            </p>
-            <div className="nftcal_link">
-        <li className="nftcal_link"><Link  href="https://nftcalendar.io/event/chamillions/"><a>
-        <Image src="/nftcal.png" alt="NFTCal Link"
-        height={100}
-        width={100}></Image>
-        </a></Link></li>
-        </div>
-
-
           <div id="roadmap" className="roadmap">
             <h2 className="title">ROADMAP</h2>
             <ul>
