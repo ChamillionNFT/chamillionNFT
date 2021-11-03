@@ -175,21 +175,24 @@ export default function Home() {
 
     
       <div  className="profile">
-           <div>
+         
+           <h3 className="title">As Seen On:</h3>
+           <li className="nftcal_link"><Link  href="https://nftcalendar.io/event/chamillions/"><a>
              <Image className="profile_img" src="/nftcal.png" alt="NFTCal"
              height={100}
              width={100}/>
+              </a></Link></li>
            </div>
          <Link href="https://nftcalendar.io/event/chamillions/"><a></a></Link>
-         </div>
+        
 
 
 
-      
+         <div className="nftcal_link">
+           
             <h3 className="title">As Seen On:</h3>
-            <div className="nftcal_link">
         <li className="nftcal_link"><Link  href="https://nftcalendar.io/event/chamillions/"><a>
-        <Image className="/nftcal.png" alt="NFTCal"
+        <Image src="/nftcal.png" alt="NFTCal"
         height={100}
         width={100}></Image>
         </a></Link></li>
