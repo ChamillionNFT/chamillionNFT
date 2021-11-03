@@ -172,9 +172,7 @@ export default function Home() {
        
       </main>
 
-      <footer className="footer">
-       <p>Chamillions 2021</p>
-      </footer>
+    
       
       <p>
             As Seen On:
@@ -186,6 +184,12 @@ export default function Home() {
         width={100}></Image>
         </a></Link></li>
         </div>
+
+        <footer className="footer">
+       <p>Chamillions 2021</p>
+      </footer>
+
+      
     </div>
     
   )
