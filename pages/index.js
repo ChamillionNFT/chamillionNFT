@@ -131,6 +131,7 @@ export default function Home() {
            <p>
            Feel free to reach out to us!
            </p>
+           <p>
            <div  className="profile">
            <div>
              <Image className="profile_img" src="/Profile Pic.png" alt="profile picture"
@@ -140,6 +141,7 @@ export default function Home() {
            <h3 className="title">Project Lead</h3>
          <Link href="https://twitter.com/DaltonStearns"><a target="_blank" rel="noreferrer">@Dalton</a></Link>
          </div>
+         </p>
          <div  className="profile">
            <div>
              <Image className="profile_img" src="/Profile Pic1.jpg" alt="profile picture"
