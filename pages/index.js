@@ -142,6 +142,7 @@ export default function Home() {
          <Link href="https://twitter.com/DaltonStearns"><a target="_blank" rel="noreferrer">@Dalton</a></Link>
          </div>
          </p>
+         <p>
          <div  className="profile">
            <div>
              <Image className="profile_img" src="/Profile Pic1.jpg" alt="profile picture"
@@ -151,6 +152,8 @@ export default function Home() {
            <h3 className="title">Design Lead</h3>
          <Link href="https://twitter.com/CommonNFT"><a target="_blank" rel="noreferrer">@CommonNFT</a></Link>
          </div>
+         </p>
+         
          <div  className="profile">
            <div>
              <Image className="profile_img" src="/Profile Pic2.jpg" alt="profile picture"
