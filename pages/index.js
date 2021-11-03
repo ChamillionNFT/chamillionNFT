@@ -174,16 +174,18 @@ export default function Home() {
       <footer className="footer">
        <p>Chamillions 2021</p>
       
-       <div  className="profile">
-           <div>
-             <Image className="profile_img" src="/nftcal.png" alt="profile picture"
-             height={200}
-             width={200}/>
-           </div>
-           <Link href="https://nftcalendar.io/event/chamillions/"><a target="_blank" rel="noreferrer">As Seen On:</a></Link>
-      </div>
+       <div className="nftcal_link">
+
+              <li className="nftcal_link"><Link  href="https://nftcalendar.io/event/chamillions/"><a>
+              <Image src="/nftcal.png" alt="NFTCal Link"
+              height={100}
+              width={100}></Image>
+              </a></Link></li>
+            </div>
       </footer>
       
     </div>
   )
 }
+  
+ 
