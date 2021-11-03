@@ -95,8 +95,9 @@ export default function Home() {
               height={480}/>
             
             </div>
+          </div>
 
-            <p>
+          <p>
             As Seen On:
             </p>
             <div className="nftcal_link">
@@ -107,7 +108,7 @@ export default function Home() {
         </a></Link></li>
         </div>
 
-          </div>
+
           <div id="roadmap" className="roadmap">
             <h2 className="title">ROADMAP</h2>
             <ul>
