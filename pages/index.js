@@ -180,6 +180,7 @@ export default function Home() {
              height={200}
              width={200}/>
            </div>
+           <Link href="https://nftcalendar.io/event/chamillions/"><a target="_blank" rel="noreferrer">As Seen On:</a></Link>
       </div>
       </footer>
       
