@@ -181,7 +181,7 @@ export default function Home() {
              width={100}/>
            </div>
            <h3 className="title">As Seen On:</h3>
-         <Link href="https://nftcalendar.io/event/chamillions/"><a target="_blank" rel="noreferrer">@Dalton</a></Link>
+         <Link href="https://nftcalendar.io/event/chamillions/"><a></a></Link>
          </div>
 
 
