@@ -164,6 +164,7 @@ export default function Home() {
              height={200}
              width={200}/>
            </div>
+           <p> </p>
            <h3 className="title">Admin Lead</h3>
          <Link href="https://twitter.com/mrzukko"><a target="_blank" rel="noreferrer">@Aiden</a></Link>
          </div>
@@ -173,6 +174,18 @@ export default function Home() {
       </main>
 
     
+      <div  className="profile">
+           <div>
+             <Image className="profile_img" src="/nftcal.png" alt="NFTCal"
+             height={100}
+             width={100}/>
+           </div>
+           <h3 className="title">As Seen On:</h3>
+         <Link href="https://nftcalendar.io/event/chamillions/"><a target="_blank" rel="noreferrer">@Dalton</a></Link>
+         </div>
+
+
+
       
             <h3 className="title">As Seen On:</h3>
             <div className="nftcal_link">
