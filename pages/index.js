@@ -174,9 +174,9 @@ export default function Home() {
 
     
       
-      <p>
+      <h3>
             As Seen On:
-            </p>
+            </h3>
             <div className="nftcal_link">
         <li className="nftcal_link"><Link  href="https://nftcalendar.io/event/chamillions/"><a>
         <Image src="/nftcal.png" alt="NFTCal Link"
@@ -189,7 +189,7 @@ export default function Home() {
        <p>Chamillions 2021</p>
       </footer>
 
-      
+
     </div>
     
   )
