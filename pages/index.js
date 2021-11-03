@@ -176,18 +176,12 @@ export default function Home() {
 
          <div className="nftcal_link">
            
-        <li className="nftcal_link"><Link  href="https://nftcalendar.io/event/chamillions/"><a>
+        <li className="nftcal_link"><Link  href="https://nftcalendar.io/event/chamillions/">
         <Image src="/nftcal.png" alt="NFTCal"
         height={100}
         width={100}></Image>
-        </a></Link></li>
+        </Link></li>
         </div>
-
-        <li className="nftcal"><Link  href="https://nftcalendar.io/event/chamillions/"><a>
-              <Image src="/nftcal.png" alt="nftcal"
-              height={100}
-              width={100}></Image>
-              </a></Link></li>
 
         <footer className="footer">
        <p>Chamillions 2021</p>
