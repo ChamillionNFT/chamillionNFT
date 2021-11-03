@@ -176,7 +176,6 @@ export default function Home() {
 
          <div className="nftcal_link">
            
-            <h3 className="title">As Seen On:</h3>
         <li className="nftcal_link"><Link  href="https://nftcalendar.io/event/chamillions/"><a>
         <Image src="/nftcal.png" alt="NFTCal"
         height={100}
