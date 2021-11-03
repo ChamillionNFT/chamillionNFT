@@ -166,9 +166,7 @@ export default function Home() {
          <Link href="https://twitter.com/mrzukko"><a target="_blank" rel="noreferrer">@Aiden</a></Link>
          </div>
 </div>
-
-        </div>
-        <div className="nftcal_link">
+<div className="nftcal_link">
 
 <li className="nftcal_link"><Link  href="https://nftcalendar.io/event/chamillions/"><a>
 <Image src="/nftcal.png" alt="NFTCal Link"
@@ -176,7 +174,8 @@ height={100}
 width={100}></Image>
 </a></Link></li>
 </div>
-
+        </div>
+       
       </main>
 
       <footer className="footer">
