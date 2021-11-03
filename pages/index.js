@@ -175,11 +175,7 @@ export default function Home() {
        <p>Chamillions 2021</p>
       
       </footer>
-      <div>
-             <Image className="profile_img" src="/nftcal.png" alt="profile picture"
-             height={100}
-             width={100}/>
-           </div>
+      
     </div>
   )
 }
