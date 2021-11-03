@@ -81,6 +81,14 @@ export default function Home() {
             <Link href="https://discord.gg/5CbQVkBVBw">
             <a target="_blank" rel="noreferrer">JOIN OUR DISCORD</a>
           </Link>
+          <div className="nftcal_link">
+        <li className="nftcal_link"><Link  href="https://nftcalendar.io/event/chamillions/"><a>
+        <Image src="/nftcal.png" alt="NFTCal Link"
+        height={100}
+        width={100}></Image>
+        </a></Link></li>
+        </div>
+
           </div>
           </div>
             </div>
@@ -165,15 +173,6 @@ export default function Home() {
            <h3 className="title">Admin Lead</h3>
          <Link href="https://twitter.com/mrzukko"><a target="_blank" rel="noreferrer">@Aiden</a></Link>
          </div>
-
-         <div className="nftcal_link">
-        <li className="nftcal_link"><Link  href="https://nftcalendar.io/event/chamillions/"><a>
-        <Image src="/nftcal.png" alt="NFTCal Link"
-        height={100}
-        width={100}></Image>
-        </a></Link></li>
-        </div>
-
         </div>
         </div>
        
