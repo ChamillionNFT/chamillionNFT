@@ -82,7 +82,7 @@ export default function Home() {
               <p>
 <strong>MINT PRICE:</strong> 0.03 ETH each
           </p>
-            <div className="join_discord" >
+            <div className="mint_date" >
             <Link href="https://mint.chamillions.com">
             <a target="_blank" rel="noreferrer">Mint Here!</a>
           </Link>

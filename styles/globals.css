@@ -107,6 +107,24 @@ overflow: hidden;
 .join_discord:hover{
   color: black;
 }
+
+.mint_date{
+  font-family: 'candy',sans-serif;
+  font-size: 2rem;
+ margin-top: 15px;
+ 
+ 
+  
+}
+.mint_date a{
+  background-color: #43ec3d;
+  padding: 0 15px;
+ 
+ 
+}
+.mint_date:hover{
+  color: rgb(255, 255, 255);
+}
 .launch_date Link{
   margin-top: 20px;
 }
