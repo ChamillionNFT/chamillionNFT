@@ -65,12 +65,13 @@ export default function Home() {
             <p>
             Identity changing reptilians wandering the Ethereum blockchain. It will be easy to spot a Chamillion from the outside... but soon it may be hard to get in.
             </p>
-            </div>
-            <div className="launch_date">
             <div className="join_discord" >
             <Link href="https://discord.gg/H7v5gJSMpB">
             <a target="_blank" rel="noreferrer">JOIN OUR DISCORD</a>
           </Link>
+            </div>
+            <div className="launch_date">
+              
             
               <p>
             <strong>LAUNCH DATE:</strong> Nov. 15th 2PM CT
