@@ -67,6 +67,10 @@ export default function Home() {
             </p>
             </div>
             <div className="launch_date">
+            <div className="join_discord" >
+            <Link href="https://discord.gg/H7v5gJSMpB">
+            <a target="_blank" rel="noreferrer">JOIN OUR DISCORD</a>
+          </Link>
             
               <p>
             <strong>LAUNCH DATE:</strong> Nov. 15th 2PM CT
@@ -80,12 +84,6 @@ export default function Home() {
             <div className="join_discord" >
             <Link href="https://mint.chamillions.com">
             <a target="_blank" rel="noreferrer">Mint Here!</a>
-          </Link>
-
-            <p></p>
-            <div className="join_discord" >
-            <Link href="https://discord.gg/H7v5gJSMpB">
-            <a target="_blank" rel="noreferrer">JOIN OUR DISCORD</a>
           </Link>
           </div>
           </div>
