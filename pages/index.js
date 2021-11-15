@@ -87,7 +87,7 @@ export default function Home() {
             <Link href="https://discord.gg/H7v5gJSMpB">
             <a target="_blank" rel="noreferrer">JOIN OUR DISCORD</a>
           </Link>
-          
+          </div>
           </div>
           </div>
             </div>
