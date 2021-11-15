@@ -83,7 +83,7 @@ export default function Home() {
 <strong>MINT PRICE:</strong> 0.03 ETH each
           </p>
             <div className="mint_date" >
-            <Link href="https://mint.chamillions.com">
+            <Link href="">
             <a target="_blank" rel="noreferrer">Mint Here!</a>
           </Link>
           </div>
