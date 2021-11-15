@@ -81,8 +81,8 @@ export default function Home() {
             <Link href="https://discord.gg/5CbQVkBVBw">
             <a target="_blank" rel="noreferrer">Mint Here!</a>
           </Link>
-          <p> </p>
-            </p>
+
+            <p></p>
             <div className="join_discord" >
             <Link href="https://discord.gg/H7v5gJSMpB">
             <a target="_blank" rel="noreferrer">JOIN OUR DISCORD</a>
